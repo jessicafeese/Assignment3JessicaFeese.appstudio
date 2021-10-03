@@ -1,3 +1,7 @@
+<<<<<<< Updated upstream
+=======
+
+>>>>>>> Stashed changes
 let wantToContinue = true
 let cities = []
 
@@ -17,3 +21,7 @@ let i = 0
 while (i < cities.length) {
   console.log(cities[i].toLowerCase())
   i++;
+<<<<<<< Updated upstream
+=======
+}
+>>>>>>> Stashed changes

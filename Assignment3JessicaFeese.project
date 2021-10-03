@@ -26,6 +26,7 @@
             "cityWhile.json"
           ]
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
         },
         {
@@ -52,6 +53,8 @@
             "dogStore.json"
           ]
 >>>>>>> Stashed changes
+=======
+>>>>>>> Stashed changes
         }
       ],
       "configxml": null,
@@ -73,6 +76,10 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
+<<<<<<< Updated upstream
+=======
+      "firstform": "cityWhile",
+>>>>>>> Stashed changes
       "fontFamily": "system",
       "googlePlayKey": "certificates/google.json",
       "googlePlayTrack": "production",
